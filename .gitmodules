@@ -1,0 +1,3 @@
+[submodule "rxjs/master-rxjs-6-without-breaking-a-sweat"]
+	path = rxjs/master-rxjs-6-without-breaking-a-sweat
+	url = https://github.com/mauricedb/master-rxjs-6-without-breaking-a-sweat.git
